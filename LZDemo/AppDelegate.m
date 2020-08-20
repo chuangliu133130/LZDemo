@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "TRUNetworking.h"
 @interface AppDelegate ()
 
 @end
